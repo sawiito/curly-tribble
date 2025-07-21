@@ -73,3 +73,14 @@
 [21Jul2025 13:11:30.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sawiito: Set own game mode to Creative Mode]
 [21Jul2025 13:14:54.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sawiito lost connection: Disconnected
 [21Jul2025 13:14:54.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sawiito left the game
+[21Jul2025 13:26:17.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Jul2025 13:26:17.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Jul2025 13:26:17.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Jul2025 13:26:17.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Jul2025 13:26:19.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Jul2025 13:26:19.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Jul2025 13:26:19.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Jul2025 13:26:19.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Jul2025 13:26:19.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Jul2025 13:26:19.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Jul2025 13:26:19.705] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
