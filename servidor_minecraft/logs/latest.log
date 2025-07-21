@@ -71,3 +71,5 @@
 [21Jul2025 13:10:52.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: opsawiito<--[HERE]
 [21Jul2025 13:11:18.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made sawiito a server operator
 [21Jul2025 13:11:30.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sawiito: Set own game mode to Creative Mode]
+[21Jul2025 13:14:54.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sawiito lost connection: Disconnected
+[21Jul2025 13:14:54.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sawiito left the game
